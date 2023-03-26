@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author arcoi
+ *
+ */
+module pancakeAStar {
+}
